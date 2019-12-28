@@ -1,0 +1,857 @@
+fileFormatVersion: 2
+guid: 967baabee72094e4b8874095acf301e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 385197209139625459
+    second: Fire Sprite_0
+  - first:
+      213: 5396543436888457855
+    second: Fire Sprite_1
+  - first:
+      213: 4685463816296895751
+    second: Fire Sprite_2
+  - first:
+      213: 170458048709636538
+    second: Fire Sprite_3
+  - first:
+      213: -5747967340890562763
+    second: Fire Sprite_4
+  - first:
+      213: -5632348068860990328
+    second: Fire Sprite_5
+  - first:
+      213: -6429986934696449370
+    second: Fire Sprite_6
+  - first:
+      213: 2957500721105264261
+    second: Fire Sprite_7
+  - first:
+      213: -4644663911114372266
+    second: Fire Sprite_8
+  - first:
+      213: -2326103070854537901
+    second: Fire Sprite_9
+  - first:
+      213: 935168050869547949
+    second: Fire Sprite_10
+  - first:
+      213: 8305033762217651298
+    second: Fire Sprite_11
+  - first:
+      213: 860948421275464805
+    second: Fire Sprite_12
+  - first:
+      213: 1970270795093133211
+    second: Fire Sprite_13
+  - first:
+      213: 5610426742091383269
+    second: Fire Sprite_14
+  - first:
+      213: -3279947617979267036
+    second: Fire Sprite_15
+  - first:
+      213: -9159846869466488296
+    second: Fire Sprite_16
+  - first:
+      213: 4901864780604605115
+    second: Fire Sprite_17
+  - first:
+      213: -7109707353670235036
+    second: Fire Sprite_18
+  - first:
+      213: 7330763520028224642
+    second: Fire Sprite_19
+  - first:
+      213: 2845242352393787528
+    second: Fire Sprite_20
+  - first:
+      213: 2554115791404137738
+    second: Fire Sprite_21
+  - first:
+      213: 1500163690286720683
+    second: Fire Sprite_22
+  - first:
+      213: -2012093086295389681
+    second: Fire Sprite_23
+  - first:
+      213: -5575294134312829455
+    second: Fire Sprite_24
+  - first:
+      213: 8361864455973258175
+    second: Fire Sprite_25
+  - first:
+      213: -7324406016453082918
+    second: Fire Sprite_26
+  - first:
+      213: 8798344548125212745
+    second: Fire Sprite_27
+  - first:
+      213: 2662475615919836445
+    second: Fire Sprite_28
+  - first:
+      213: -5643871376003218654
+    second: Fire Sprite_29
+  - first:
+      213: 2664122425212564120
+    second: Fire Sprite_30
+  - first:
+      213: -3457082848710108459
+    second: Fire Sprite_31
+  - first:
+      213: 6996941592735275903
+    second: Fire Sprite_32
+  - first:
+      213: -6106963553172808634
+    second: Fire Sprite_33
+  - first:
+      213: -7713520508914233966
+    second: Fire Sprite_34
+  - first:
+      213: -6704823120507947214
+    second: Fire Sprite_35
+  - first:
+      213: -7789770545839061138
+    second: Fire Sprite_36
+  - first:
+      213: 6343235881430918401
+    second: Fire Sprite_37
+  - first:
+      213: 2092057702886502722
+    second: Fire Sprite_38
+  - first:
+      213: -8854179389878291828
+    second: Fire Sprite_39
+  - first:
+      213: 3454981959888935614
+    second: Fire Sprite_40
+  - first:
+      213: 7344782022904774186
+    second: Fire Sprite_41
+  - first:
+      213: 1190837380608444869
+    second: Fire Sprite_42
+  - first:
+      213: 2666066073640594876
+    second: Fire Sprite_43
+  - first:
+      213: 5036197498280766896
+    second: Fire Sprite_44
+  - first:
+      213: -6345847683241086243
+    second: Fire Sprite_45
+  - first:
+      213: -7336476472353715556
+    second: Fire Sprite_46
+  - first:
+      213: 3185468498628850979
+    second: Fire Sprite_47
+  - first:
+      213: 7237145790101384174
+    second: Fire Sprite_48
+  - first:
+      213: 501299301625140622
+    second: Fire Sprite_49
+  - first:
+      213: -1673042558205743551
+    second: Fire Sprite_50
+  - first:
+      213: -2367169381808260695
+    second: Fire Sprite_51
+  - first:
+      213: 7589705069253133281
+    second: Fire Sprite_52
+  - first:
+      213: -8781357523377832622
+    second: Fire Sprite_53
+  - first:
+      213: 5207845993542063940
+    second: Fire Sprite_54
+  - first:
+      213: -8880056169387039906
+    second: Fire Sprite_55
+  - first:
+      213: -315234762363946448
+    second: Fire Sprite_56
+  - first:
+      213: 2076175732097420216
+    second: Fire Sprite_57
+  - first:
+      213: -6522415848704318770
+    second: Fire Sprite_58
+  - first:
+      213: 4012089130645738089
+    second: Fire Sprite_59
+  - first:
+      213: -6910147550503119810
+    second: Fire Sprite_60
+  - first:
+      213: -8842003635129393604
+    second: Fire Sprite_61
+  - first:
+      213: 5942221334634696124
+    second: Fire Sprite_62
+  - first:
+      213: -4881145236748056996
+    second: Fire Sprite_63
+  - first:
+      213: -8478008809610766824
+    second: Fire Sprite_64
+  - first:
+      213: -5390990635952323935
+    second: Fire Sprite_65
+  - first:
+      213: -1920028266940858263
+    second: Fire Sprite_66
+  - first:
+      213: -8481265636816781690
+    second: Fire Sprite_67
+  - first:
+      213: -8910839980373229894
+    second: Fire Sprite_68
+  - first:
+      213: -4779967642568971489
+    second: Fire Sprite_69
+  - first:
+      213: -3739011054759506724
+    second: Fire Sprite_70
+  - first:
+      213: 8527450320469341305
+    second: Fire Sprite_71
+  - first:
+      213: 2169940377286289322
+    second: Fire Sprite_72
+  - first:
+      213: -2737329220077211049
+    second: Fire Sprite_73
+  - first:
+      213: -4479680439229453525
+    second: Fire Sprite_74
+  - first:
+      213: 4343915498620463651
+    second: Fire Sprite_75
+  - first:
+      213: -1489630674686480072
+    second: Fire Sprite_76
+  - first:
+      213: 7423438136109217719
+    second: Fire Sprite_77
+  - first:
+      213: -3568112597372700891
+    second: Fire Sprite_78
+  - first:
+      213: -6784743919346402437
+    second: Fire Sprite_79
+  - first:
+      213: -768311125438397738
+    second: Fire Sprite_80
+  - first:
+      213: -6349474034881515354
+    second: Fire Sprite_81
+  - first:
+      213: 5145299709257795409
+    second: Fire Sprite_82
+  - first:
+      213: -6885904320564457136
+    second: Fire Sprite_83
+  - first:
+      213: 5727737285144625806
+    second: Fire Sprite_84
+  - first:
+      213: 786756095458698174
+    second: Fire Sprite_85
+  - first:
+      213: 5893184176240863416
+    second: Fire Sprite_86
+  - first:
+      213: -5464441688840890523
+    second: Fire Sprite_87
+  - first:
+      213: 5573805214875396689
+    second: Fire Sprite_88
+  - first:
+      213: -8952853452341944985
+    second: Fire Sprite_89
+  - first:
+      213: 5181676610810997731
+    second: Fire Sprite_90
+  - first:
+      213: 2364766648609728861
+    second: Fire Sprite_91
+  - first:
+      213: -3698111916604768467
+    second: Fire Sprite_92
+  - first:
+      213: -8423935975606675191
+    second: Fire Sprite_93
+  - first:
+      213: -257751415258664345
+    second: Fire Sprite_94
+  - first:
+      213: -7428001077637083907
+    second: Fire Sprite_95
+  - first:
+      213: -37440151877891918
+    second: Fire Sprite_96
+  - first:
+      213: -3550066938511772986
+    second: Fire Sprite_97
+  - first:
+      213: 126994049873412407
+    second: Fire Sprite_98
+  - first:
+      213: 1511938764517066835
+    second: Fire Sprite_99
+  - first:
+      213: -2583972199786021561
+    second: Fire Sprite_100
+  - first:
+      213: 4412237985249667151
+    second: Fire Sprite_101
+  - first:
+      213: 4527538783173090116
+    second: Fire Sprite_102
+  - first:
+      213: -8200996724531190439
+    second: Fire Sprite_103
+  - first:
+      213: 7994824295309465311
+    second: Fire Sprite_104
+  - first:
+      213: 982299681610947527
+    second: Fire Sprite_105
+  - first:
+      213: 4742731117204155910
+    second: Fire Sprite_106
+  - first:
+      213: -5501060564372092848
+    second: Fire Sprite_107
+  - first:
+      213: -4201611132711967154
+    second: Fire Sprite_108
+  - first:
+      213: -3256946767786295811
+    second: Fire Sprite_109
+  - first:
+      213: 410474249315539272
+    second: Fire Sprite_110
+  - first:
+      213: 6661114166008181958
+    second: Fire Sprite_111
+  - first:
+      213: -3407541837060064836
+    second: Fire Sprite_112
+  - first:
+      213: 8135041938066175253
+    second: Fire Sprite_113
+  - first:
+      213: 7763483404701309680
+    second: Fire Sprite_114
+  - first:
+      213: -6438512235169049480
+    second: Fire Sprite_115
+  - first:
+      213: 861124865267882212
+    second: Fire Sprite_116
+  - first:
+      213: -4929044297566215124
+    second: Fire Sprite_117
+  - first:
+      213: 1241058008034304036
+    second: Fire Sprite_118
+  - first:
+      213: 3396804119622430634
+    second: Fire Sprite_119
+  - first:
+      213: -6493515798245126339
+    second: Fire Sprite_120
+  - first:
+      213: -6466653632396856773
+    second: Fire Sprite_121
+  - first:
+      213: 6543972192611412324
+    second: Fire Sprite_122
+  - first:
+      213: -6592610455797344799
+    second: Fire Sprite_123
+  - first:
+      213: -88254375827442995
+    second: Fire Sprite_124
+  - first:
+      213: 7196556511791451180
+    second: Fire Sprite_125
+  - first:
+      213: 1514356467681411726
+    second: Fire Sprite_126
+  - first:
+      213: 4609957714521228201
+    second: Fire Sprite_127
+  - first:
+      213: 1424481329227832875
+    second: Fire Sprite_128
+  - first:
+      213: -6449316612753651109
+    second: Fire Sprite_129
+  - first:
+      213: 5934292984602760987
+    second: Fire Sprite_130
+  - first:
+      213: -5332587206652582698
+    second: Fire Sprite_131
+  - first:
+      213: -7728470870952002524
+    second: Fire Sprite_132
+  - first:
+      213: 9004426626421275384
+    second: Fire Sprite_133
+  - first:
+      213: -3058827488471679386
+    second: Fire Sprite_134
+  - first:
+      213: 9177631653920292997
+    second: Fire Sprite_135
+  - first:
+      213: -311559176662714473
+    second: Fire Sprite_136
+  - first:
+      213: -1299499790489055619
+    second: Fire Sprite_137
+  - first:
+      213: 8448415684886152085
+    second: Fire Sprite_138
+  - first:
+      213: -8080301033561150475
+    second: Fire Sprite_139
+  - first:
+      213: 8180187491129360000
+    second: Fire Sprite_140
+  - first:
+      213: -3898342154355612312
+    second: Fire Sprite_141
+  - first:
+      213: -557190344831315613
+    second: Fire Sprite_142
+  - first:
+      213: -1791549660244414055
+    second: Fire Sprite_143
+  - first:
+      213: -1458132128805802940
+    second: Fire Sprite_144
+  - first:
+      213: -5919243420013739141
+    second: Fire Sprite_145
+  - first:
+      213: 7659298226603738098
+    second: Fire Sprite_146
+  - first:
+      213: 3646213812392303122
+    second: Fire Sprite_147
+  - first:
+      213: -772480695020304283
+    second: Fire Sprite_148
+  - first:
+      213: -2630068067781268687
+    second: Fire Sprite_149
+  - first:
+      213: -6295991397707606507
+    second: Fire Sprite_150
+  - first:
+      213: 460575634264238685
+    second: Fire Sprite_151
+  - first:
+      213: -3442213198255940994
+    second: Fire Sprite_152
+  - first:
+      213: 1908216677871127469
+    second: Fire Sprite_153
+  - first:
+      213: -2446710071003756407
+    second: Fire Sprite_154
+  - first:
+      213: -3180908624970994081
+    second: Fire Sprite_155
+  - first:
+      213: 5385279083488585040
+    second: Fire Sprite_156
+  - first:
+      213: 4733575788192881116
+    second: Fire Sprite_157
+  - first:
+      213: 7744963872834169734
+    second: Fire Sprite_158
+  - first:
+      213: 5795107271286058684
+    second: Fire Sprite_159
+  - first:
+      213: 9029073504758281411
+    second: Fire Sprite_160
+  - first:
+      213: 7520016876518588946
+    second: Fire Sprite_161
+  - first:
+      213: 6077940202021417234
+    second: Fire Sprite_162
+  - first:
+      213: -1787348381569573014
+    second: Fire Sprite_163
+  - first:
+      213: 2724122170191893532
+    second: Fire Sprite_164
+  - first:
+      213: -6544765561605267287
+    second: Fire Sprite_165
+  - first:
+      213: 2766819444927531350
+    second: Fire Sprite_166
+  - first:
+      213: 8940096918064634526
+    second: Fire Sprite_167
+  - first:
+      213: -5222605987593012440
+    second: Fire Sprite_168
+  - first:
+      213: -2039454960794171477
+    second: Fire Sprite_169
+  - first:
+      213: -8283187831218657903
+    second: Fire Sprite_170
+  - first:
+      213: 7640545144129634164
+    second: Fire Sprite_171
+  - first:
+      213: 912587589098285921
+    second: Fire Sprite_172
+  - first:
+      213: -2215778009685619182
+    second: Fire Sprite_173
+  - first:
+      213: 8779692899889042299
+    second: Fire Sprite_174
+  - first:
+      213: -8073286450258803903
+    second: Fire Sprite_175
+  - first:
+      213: -8156947932965577797
+    second: Fire Sprite_176
+  - first:
+      213: 4667830574000548938
+    second: Fire Sprite_177
+  - first:
+      213: -3157236262186816523
+    second: Fire Sprite_178
+  - first:
+      213: -5285210406545603118
+    second: Fire Sprite_179
+  - first:
+      213: 36981973811791427
+    second: Fire Sprite_180
+  - first:
+      213: -5138874191986087418
+    second: Fire Sprite_181
+  - first:
+      213: 2119239187795314161
+    second: Fire Sprite_182
+  - first:
+      213: -7821431508537549109
+    second: Fire Sprite_183
+  - first:
+      213: 6285998897710759478
+    second: Fire Sprite_184
+  - first:
+      213: -8711139858295060747
+    second: Fire Sprite_185
+  - first:
+      213: -835236279667138042
+    second: Fire Sprite_186
+  - first:
+      213: 5606769083847377424
+    second: Fire Sprite_187
+  - first:
+      213: 5349064807302355440
+    second: Fire Sprite_188
+  - first:
+      213: -5398760216326652832
+    second: Fire Sprite_189
+  - first:
+      213: 4130093808433566353
+    second: Fire Sprite_190
+  - first:
+      213: -657603187991484895
+    second: Fire Sprite_191
+  - first:
+      213: 8946778522357086269
+    second: Fire Sprite_192
+  - first:
+      213: 4335865758638351582
+    second: Fire Sprite_193
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 151
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112a29f1f7caae40a62d592af7ab471
+      internalID: 385197209139625459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 152
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d856b409ece68d4abc4b59bac85587b
+      internalID: 5396543436888457855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 153
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377b49f44c710d649987ed4b07f870cd
+      internalID: 4685463816296895751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 153
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5495341fb8e7c64da64914f6c9d8cb9
+      internalID: 170458048709636538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 40
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e8f70935786df4eb2ec06cc6c2d226
+      internalID: -5747967340890562763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 40
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145cb6cd475758645b80cfa3adfec149
+      internalID: -5632348068860990328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 40
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f4eb3fe95c0eb41a0e654effdb8442
+      internalID: -6429986934696449370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 40
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cceb45ac2af27f47a8948dd19b14f5e
+      internalID: 2957500721105264261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -232, y: -105}
+      - {x: -232, y: 118}
+      - {x: 230, y: 118}
+      - {x: 230, y: -105}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
